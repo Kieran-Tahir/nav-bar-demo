@@ -1,4 +1,4 @@
-# `Kieran's React Template v1`
+# `Navvy savvy`
 
 ### `npm start`
 
