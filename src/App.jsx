@@ -1,9 +1,22 @@
 import './styles/index.scss'
+import NavBar from './NavBar'
 
 function App() {
   return (
     <div className="App">
-      Leshgo v1
+      <NavBar />
+      <h1>Some other stuff</h1>
+      <h1>Some other stuff</h1>
+      <h1>Some other stuff</h1>
+      <h1>Some other stuff</h1>
+      <h1>Some other stuff</h1>
+      <h1>Some other stuff</h1>
+      <h1>Some other stuff</h1>
+      <h1>Some other stuff</h1>
+      <h1>Some other stuff</h1>
+      <h1>Some other stuff</h1>
+      <h1>Some other stuff</h1>
+      <h1>Some other stuff</h1>
     </div>
   );
 }
